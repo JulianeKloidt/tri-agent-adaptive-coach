@@ -1,0 +1,23 @@
+# API Keys and Secrets
+.env
+
+# Virtual Environment
+venv/
+env/
+bin/
+lib/
+include/
+
+# Local Vector Database
+db/
+
+# Python Cache & Logs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
