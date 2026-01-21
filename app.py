@@ -10,7 +10,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # --- PAGE SETUP ---
 st.set_page_config(page_title="TriAI Coach", page_icon="🚴‍♂️")
-st.title("TriAI: Adaptive Performance Director")
+st.title("TriAI: Personalised Adaptive Coaching")
 
 # --- 1. THE DATA BAR (Live API Call) ---
 stats = get_intervals_data()

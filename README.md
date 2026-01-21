@@ -1,6 +1,9 @@
 # 🚴‍♂️ TriAI: Adaptive Performance Director
 **An autonomous AI Agent designed to solve the "Static Plan" problem in endurance sports.**
 
+## Project Demo
+[![Watch the Demo](https://cdn.loom.com/sessions/thumbnails/YOUR_VIDEO_ID-with-play.gif)](https://www.loom.com/share/81f035f2b48f41ca909804bea54dced2)
+
 ### 🎯 The Problem
 Standard triathlon training plans are static. They don't adapt when an athlete is fatigued or when their life-stress (ATL/TSB) spikes. Most "AI coaches" are just fancy wrappers for generic LLM advice.
 
